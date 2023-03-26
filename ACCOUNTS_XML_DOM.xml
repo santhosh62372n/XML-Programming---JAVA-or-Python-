@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accounts>
+	<account id="1">
+		<accountNumber>758964123</accountNumber>
+		<accountName>Harry Potter</accountName>
+		<accountType>Savings Account</accountType>
+	</account>
+	<account id="2">
+		<accountNumber>542687913</accountNumber>
+		<accountName>Angelina Jolie</accountName>
+		<accountType>Current Account</accountType>
+	</account>
+	<account id="3">
+		<accountNumber>245789631</accountNumber>
+		<accountName>M S Dhoni</accountName>
+		<accountType>Savings Account</accountType>
+	</account>
+	<account id="4">
+		<accountNumber>012345678</accountNumber>
+		<accountName>Anne Hathaway</accountName>
+		<accountType>Current Account</accountType>
+	</account>
+	<account id="5">
+		<accountNumber>123456789</accountNumber>
+		<accountName>Darmesh Yadav</accountName>
+		<accountType>Savings Account</accountType>
+	</account>
+	<account id="6">
+		<accountNumber>987654321</accountNumber>
+		<accountName>Ragav Juyal</accountName>
+		<accountType>Current Account</accountType>
+	</account>
+	<account id="7">
+		<accountNumber>625134798</accountNumber>
+		<accountName>Ian Somahalder</accountName>
+		<accountType>Savings Account</accountType>
+	</account>
+</accounts>
